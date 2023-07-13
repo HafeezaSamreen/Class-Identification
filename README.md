@@ -3,7 +3,7 @@ In recent years, high resolution Satellite images have been used with image proc
 
 SOFTWARE DEVELOPMENT LIFECYCLE
 ![image](https://github.com/HafeezaSamreen/Class-Identification/assets/71244664/ecd512cb-8cf3-4054-884a-3b7ff5bb3c8e)
-
+![image](https://github.com/HafeezaSamreen/Change-Detection-in-Buildings/assets/71244664/f447d241-9a84-48a4-817f-7f62b496bc09)
 BINARY PIXEL CLASSSIFICATION
 ![image](https://github.com/HafeezaSamreen/Class-Identification/assets/71244664/78e15e83-c660-4ac9-8edb-3f419f180a16)
 
